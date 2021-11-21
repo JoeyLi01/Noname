@@ -1,4 +1,4 @@
-# Visualization of COVID-19 Pandemic(Optional)
+# Visualization of COVID-19 Pandemic
 ## list of contents
 * [Affilation](#Affilation)
 * [Goals](#Goals)
